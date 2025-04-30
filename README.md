@@ -101,7 +101,8 @@
             </html>
 
 
-7. css, js, images 
+7. css, js, images
+8. 
 
 => public > assets > css > style.css
 
